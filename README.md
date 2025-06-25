@@ -1,6 +1,23 @@
 <h2 align="center">Hi there 👋 hope you're good.</h2>
 
-<p align="left">I'm Abbas, a part-time mern-stack freelance developer 👨‍💻 working remotely <br><br>🔭 I’m currently working on Github Profilinator<br><br>🌱 I’m currently learning Python and Threejs<br><br>❓ Ask me about anything related to MERN stack and related technologies<br><br>📫 How to reach me aliabbasasif89@gmail.com<br><br>⚡ Fun fact: I use tabs over spaces</p>
+<p align="left">
+  I'm Abbas, an **18-year-old** part-time MERN-stack freelance developer 👨‍💻 working remotely.<br><br>
+
+  🎓 I’m currently pursuing A-Levels with majors in **Computer Science**, **Physics**, **Chemistry**, and **Mathematics**.<br><br>
+
+  🎯 My goal is to become a **Cybersecurity Specialist** in the near future.<br><br>
+
+  🔭 I’m currently working on **Github Profilinator**.<br><br>
+
+  🌱 I’m also learning **Python** and **Three.js** to expand my development toolkit.<br><br>
+
+  ❓ Ask me anything related to **MERN stack** and related web technologies.<br><br>
+
+  📫 Reach me at: aliabbasasif89@gmail.com<br><br>
+
+  ⚡ Fun fact: I use tabs over spaces 😄
+</p>
+
 
 <h2 align="left">📚Languages, Tools, Frameworks</h2>
 
