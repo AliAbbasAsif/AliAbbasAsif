@@ -1,26 +1,13 @@
 <h2 align="center">Hi there 👋 hope you're good.</h2>
 
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AliAbbasAsif&color=blue&style=flat-square" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/AliAbbasAsif?label=Follow&style=social" alt="GitHub followers" />
-</p>
-
 <p align="left">
   I'm Abbas, an <strong>18-year-old</strong> part-time <strong>MERN-stack</strong> freelance developer 👨‍💻 working remotely.<br><br>
-
   🎓 I’m currently pursuing <strong>A-Levels</strong> with majors in <strong>Computer Science, Physics, Chemistry,</strong> and <strong>Mathematics</strong>.<br><br>
-
   🎯 My long-term goal is to become a <strong>Cybersecurity Specialist</strong>.<br><br>
-
   🔭 I’m currently working on <strong>Github Profilinator</strong>.<br><br>
-
   🌱 I’m also learning <strong>Python</strong> and <strong>Three.js</strong> to expand my development skills.<br><br>
-
   ❓ Ask me anything related to the <strong>MERN stack</strong> or web technologies.<br><br>
-
   📫 Reach me at: <a href="mailto:aliabbasasif89@gmail.com">aliabbasasif89@gmail.com</a><br><br>
-
   ⚡ Fun fact: I use tabs over spaces 😄
 </p>
 
